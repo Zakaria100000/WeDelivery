@@ -26,11 +26,11 @@ WeDelivery provides a comprehensive solution for managing the delivery process, 
 Below are brief overviews of each component within the WeDelivery suite, complete with visual insights into their interfaces.
 
 
-### Sign In P
+## Sign In 
 <img width="921" alt="Screenshot 2023-04-19 172941" src="https://github.com/Zakaria100000/WeDelivery/assets/93408719/086ab608-bf54-4b07-a1f8-9c5332183eee">
 
 
-### Admin Platform Overview
+## Admin Platform Overview
 
 The Admin Platform offers comprehensive tools for managing delivery operations, including user authentication, performance statistics, client and courier account management, and much more.
 
@@ -38,39 +38,39 @@ The Admin Platform offers comprehensive tools for managing delivery operations, 
 <img width="956" alt="Admin Platform Screenshot" src="https://github.com/Zakaria100000/WeDelivery/assets/93408719/8576b116-10c6-4eea-825a-4c08666504a7">
 </p>
 
-## Clients List 
+### Clients List 
 
 <p align="center">
 <img width="547" alt="Screenshot 2023-04-20 022531" src="https://github.com/Zakaria100000/WeDelivery/assets/93408719/cf302ea7-2116-4646-ba9c-9ebfb63b28a0">
 </p>
 
-## Pickups List 
+### Pickups List 
 <p align="center">
 <img width="632" alt="Screenshot 2023-04-20 031718" src="https://github.com/Zakaria100000/WeDelivery/assets/93408719/d693c5bd-774d-44fd-8be3-a662fa7f726e">
 </p>
 
-## Delivery Notes (pdf)
+### Delivery Notes (pdf)
 <p align="center">
 <img width="942" alt="Screenshot 2023-04-20 083249" src="https://github.com/Zakaria100000/WeDelivery/assets/93408719/603b0729-af62-4e59-8cbb-a297c967e7e4">
 </p>
 
-### Delivery Agent Platform Overview
+## Delivery Agent Platform Overview
 
 Delivery agents are equipped with real-time updates and management tools to streamline the delivery process, enhancing efficiency and effectiveness.
 
-## Delivery Agent Dashboard 
+### Delivery Agent Dashboard 
 
 <p align="center">
   <img width=562 alt="Delivery Agent Platform Screenshot" src="https://github.com/Zakaria100000/WeDelivery/assets/93408719/4c38362f-68a1-4803-a3ab-34a6d046d9a1" >
 </p>
 
-## Shipments List
+### Shipments List
 
 <p align="center">
   <img width=562 alt="Delivery Agent Platform Screenshot" src="https://github.com/Zakaria100000/WeDelivery/assets/93408719/65203b78-da8d-4fa7-97ee-37b57e847b04" >
 </p>
 
-## Shipments Status
+### Shipments Status
 
 <p align="center">
   <img width=562 alt="Delivery Agent Platform Screenshot" src="https://github.com/Zakaria100000/WeDelivery/assets/93408719/952a6cd3-aca2-4a60-be07-440153422f8f" >
