@@ -3,28 +3,18 @@
 # 🌐🚚🖥️ WeDelivery Platforms Suite 
 </p>
 
-
-
 <p align="center">
 <img src="https://github.com/Zakaria100000/WeDelivery/assets/93408719/aec46ebc-0ed3-463d-88d4-c4a971bec57f/150x150" alt="WeDelivery Logo">
 </p>
-
-
-
-
-
-
-
-
-<img width="956" alt="Screenshot 2023-04-20 050111" src="https://github.com/Zakaria100000/WeDelivery/assets/93408719/8576b116-10c6-4eea-825a-4c08666504a7">
-
-<img width="942" alt="Screenshot 2023-04-20 083249" src="https://github.com/Zakaria100000/WeDelivery/assets/93408719/603b0729-af62-4e59-8cbb-a297c967e7e4">
 
 Welcome to WeDelivery, an integrated suite of platforms designed to streamline and enhance the efficiency of delivery services. This suite includes the Admin Platform, Server, Delivery Agent Platform, and Client Platform, each tailored to meet the needs of different users within the delivery ecosystem.
 
 ## 📋 Overview
 
 WeDelivery provides a comprehensive solution for managing the delivery process, from backend services to user interfaces for clients, delivery agents, and administrators. The suite leverages modern web technologies to ensure a seamless, efficient, and scalable delivery service operation.
+
+## 📊 Modeling Tables Overview (MongoDB)
+<img width="960" alt="Screenshot 2023-04-19 170043" src="https://github.com/Zakaria100000/WeDelivery/assets/93408719/da565db3-ea84-4334-9fe7-a56504d0df00">
 
 ## 🖥️ Platforms:
 
@@ -36,67 +26,64 @@ WeDelivery provides a comprehensive solution for managing the delivery process, 
 Below are brief overviews of each component within the WeDelivery suite, complete with visual insights into their interfaces.
 
 
-## 📊 MongoDB Tables Overview
-<img width="960" alt="Screenshot 2023-04-19 170043" src="https://github.com/Zakaria100000/WeDelivery/assets/93408719/da565db3-ea84-4334-9fe7-a56504d0df00">
-
-### Sign In Page 
+### Sign In P
 <img width="921" alt="Screenshot 2023-04-19 172941" src="https://github.com/Zakaria100000/WeDelivery/assets/93408719/086ab608-bf54-4b07-a1f8-9c5332183eee">
-
-### Clients List 
-
-<img width="547" alt="Screenshot 2023-04-20 022531" src="https://github.com/Zakaria100000/WeDelivery/assets/93408719/cf302ea7-2116-4646-ba9c-9ebfb63b28a0">
-
-### Shipment Status 
-
-### Pickups List 
-<img width="632" alt="Screenshot 2023-04-20 031718" src="https://github.com/Zakaria100000/WeDelivery/assets/93408719/d693c5bd-774d-44fd-8be3-a662fa7f726e">
-
-### Delivery Notes 
-
-
-
-### Client Dashboard
-
 
 
 ### Admin Platform Overview
 
+The Admin Platform offers comprehensive tools for managing delivery operations, including user authentication, performance statistics, client and courier account management, and much more.
+
 <p align="center">
-  <img src="URL_TO_YOUR_ADMIN_PLATFORM_SCREENSHOT" alt="Admin Platform Screenshot">
+<img width="956" alt="Admin Platform Screenshot" src="https://github.com/Zakaria100000/WeDelivery/assets/93408719/8576b116-10c6-4eea-825a-4c08666504a7">
 </p>
 
-The Admin Platform offers comprehensive tools for managing delivery operations, including user authentication, performance statistics, client and courier account management, and much more.
+## Clients List 
+
+<p align="center">
+<img width="547" alt="Screenshot 2023-04-20 022531" src="https://github.com/Zakaria100000/WeDelivery/assets/93408719/cf302ea7-2116-4646-ba9c-9ebfb63b28a0">
+</p>
+
+## Pickups List 
+<p align="center">
+<img width="632" alt="Screenshot 2023-04-20 031718" src="https://github.com/Zakaria100000/WeDelivery/assets/93408719/d693c5bd-774d-44fd-8be3-a662fa7f726e">
+</p>
+
+## Delivery Notes (pdf)
+<p align="center">
+<img width="942" alt="Screenshot 2023-04-20 083249" src="https://github.com/Zakaria100000/WeDelivery/assets/93408719/603b0729-af62-4e59-8cbb-a297c967e7e4">
+</p>
 
 ### Delivery Agent Platform Overview
 
-<p align="center">
-  <img width=562 alt="Delivery Agent Platform Screenshot" src="https://github.com/Zakaria100000/WeDelivery/assets/93408719/65203b78-da8d-4fa7-97ee-37b57e847b04" >
-</p>
+Delivery agents are equipped with real-time updates and management tools to streamline the delivery process, enhancing efficiency and effectiveness.
 
-<p align="center">
-  <img width=562 alt="Delivery Agent Platform Screenshot" src="https://github.com/Zakaria100000/WeDelivery/assets/93408719/952a6cd3-aca2-4a60-be07-440153422f8f" >
-</p>
+## Delivery Agent Dashboard 
 
 <p align="center">
   <img width=562 alt="Delivery Agent Platform Screenshot" src="https://github.com/Zakaria100000/WeDelivery/assets/93408719/4c38362f-68a1-4803-a3ab-34a6d046d9a1" >
 </p>
 
+## Shipments List
 
+<p align="center">
+  <img width=562 alt="Delivery Agent Platform Screenshot" src="https://github.com/Zakaria100000/WeDelivery/assets/93408719/65203b78-da8d-4fa7-97ee-37b57e847b04" >
+</p>
 
-<img width="562" alt="Screenshot 2023-04-20 032517" src="https://github.com/Zakaria100000/WeDelivery/assets/93408719/65203b78-da8d-4fa7-97ee-37b57e847b04">
+## Shipments Status
 
-Delivery agents are equipped with real-time updates and management tools to streamline the delivery process, enhancing efficiency and effectiveness.
+<p align="center">
+  <img width=562 alt="Delivery Agent Platform Screenshot" src="https://github.com/Zakaria100000/WeDelivery/assets/93408719/952a6cd3-aca2-4a60-be07-440153422f8f" >
+</p>
+
 
 ### Client Platform Overview
+
+Clients can easily manage their delivery and pickup requests online, experiencing a smooth and user-friendly interface.
 
 <p align="center">
   <img width=562 alt="Delivery Agent Platform Screenshot" src="https://github.com/Zakaria100000/WeDelivery/assets/93408719/8576b116-10c6-4eea-825a-4c08666504a7" >
 </p>
-
-Clients can easily manage their delivery and pickup requests online, experiencing a smooth and user-friendly interface.
-
-
-
 
 ## 🌟 Features
 
